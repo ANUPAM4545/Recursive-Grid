@@ -1,3 +1,6 @@
+
+
+
 # The Recursive Grid
 
 The Recursive Grid is an interactive frontend application built to demonstrate state management, complex logic propagation, and modern CSS animations using **Next.js** and **Tailwind CSS**.
